@@ -1,0 +1,30 @@
+# Basic libraries
+pandas
+numpy
+matplotlib
+seaborn
+opencv-python
+Pillow  # For image file handling and basic image processing
+scikit-learn
+scipy  # Useful for scientific and image processing operations
+
+# TensorFlow and Keras for deep learning
+tensorflow
+keras
+
+# Image augmentation and pre-processing
+imgaug  # For image augmentation in machine learning
+albumentations  # Another powerful image augmentation library
+
+# Deep Learning models for computer vision
+tensorflow-hub  # Pretrained models like MobileNet, ResNet, etc.
+torch  # PyTorch, an alternative to TensorFlow
+torchvision  # Computer vision tools for PyTorch
+
+# Advanced computer vision libraries
+dlib  # Machine learning and image processing library (face detection, landmarks, etc.)
+mediapipe  # Useful for human pose estimation, face detection, hand tracking, etc.
+tqdm  # Progress bars for loops, useful for long-running image processing tasks
+
+# For handling large datasets of images
+h5py  # Managing large datasets of images and other data
